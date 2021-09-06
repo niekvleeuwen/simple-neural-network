@@ -4,7 +4,7 @@ A simple neural network to distinguish crosses from circles given a 3x3 grid.
 # How to run
 First install the required packages
 ```
-pip install -r requirements.py
+pip install -r requirements.txt
 ```
 
 Run the Neural Network with:
